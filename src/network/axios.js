@@ -13,7 +13,7 @@ service.interceptors.response.use(
             sessionStorage.removeItem("userInfo")
             Message.error("您未登录系统，请登录！")
             setTimeout(()=>{
-                window.location.href = "http://localhost:8080/home"
+                window.location.href = "http://" + window.location.host +  "/login"
             },2000)
 
         }else {

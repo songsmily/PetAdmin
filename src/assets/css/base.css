@@ -5,8 +5,12 @@
 @import "~assets/css/function.css";
 @import "~assets/css/comment.min.css";
 @import "~assets/css/card.min.css";
+#wrap_content{
+    min-height: 1000px;
+    overflow: scroll;
+}
 .wrap_content{
-    height: 1000px;
+    min-height: 1000px;
     overflow: scroll;
 }
 .wrap_content_mobile{

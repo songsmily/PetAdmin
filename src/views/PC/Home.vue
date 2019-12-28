@@ -5,7 +5,7 @@
             <small class="text-muted letterspacing indexWords"></small>
         </header>
         <!--内容页-->
-        <div class="wrapper-md" id="post-panel">
+        <div class="wrapper-md" id="wrap_content">
 
         </div>
     </div>
