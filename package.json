@@ -15,7 +15,7 @@
     "core-js": "^3.3.2",
     "element-ui": "^2.13.0",
     "gulp": "^4.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",
     "skplayer": "^3.0.8",
